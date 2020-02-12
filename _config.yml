@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Melton
-title: 
+title: From body to mind: Deciding to work Smart
 header-img: img/home-bg.png
 email: seanlape@gmail.com
 copyright_name: Sean Melton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Smart not hard
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RUGJester
