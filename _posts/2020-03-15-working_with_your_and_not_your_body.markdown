@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Working with your and not your body"
+title:      "Working with your mind and not your body"
 date:       2020-03-15 19:58:06 -0400
 permalink:  working_with_your_and_not_your_body
 ---
